@@ -3,7 +3,7 @@ title:               'Today I Learned'
 tagline:             'Notes to self about software development'
 description:         ''
 url:                 'https://RilezLed.github.io/'
-baseurl:             'til/'
+baseurl:             'journal/'
 paginate:            5
 permalink:           pretty
 
