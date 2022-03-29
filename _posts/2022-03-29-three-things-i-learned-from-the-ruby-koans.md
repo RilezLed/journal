@@ -9,3 +9,6 @@ Here are (at least) three things I learned from [The Ruby Koans](http://rubykoan
 
 ### Smaller Headings
 
+> I didn't say any of that shit
+>
+> -Confucious 
