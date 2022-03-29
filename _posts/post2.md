@@ -1,3 +1,0 @@
----
-# Riley is Cool
----
